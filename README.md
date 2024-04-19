@@ -1,18 +1,10 @@
 # 2024.2Modelos2-Estimation-of-obesity-levels
 
-## Participantes
+# Objetivo del Proyecto
 
-- Miguel Angel Urueña Riobo
-  - Email: miguel.uruena@udea.edu.co
-  - Programa: Ingeniería de Sistemas
- 
-- Eliana Janneth Puerta
-  - Email: eliana.puerta@udea.edu.co
-  - Programa: Ingeniería de Sistemas
-    
-- Juan Fernando Lopera Muñoz
-  - juan.loperam@udea.edu.co
-  - Programa: Ingeniería de Sistemas
+El objetivo del proyecto es utilizar técnicas de clasificación para predecir el tipo de obesidad de personas en México, Perú y Colombia, basándose en sus hábitos alimenticios y su condición física. El conjunto de datos contiene 17 atributos y 2111 registros etiquetados con niveles de obesidad, que van desde peso insuficiente hasta obesidad tipo III. 
+
+La tarea principal es desarrollar un modelo que pueda clasificar con precisión el nivel de obesidad de una persona utilizando estos atributos, lo que permitirá entender mejor cómo los hábitos alimenticios y la condición física influyen en la obesidad.
 
 # Instrucciones para Reproducción
 
@@ -67,3 +59,17 @@ Con estas instrucciones, deberías poder reproducir los resultados del proyecto 
 ## Dataset
 
 A continuación encuentras el dataset completo: [DataSet](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition).
+
+## Participantes
+
+- Miguel Angel Urueña Riobo
+  - Email: miguel.uruena@udea.edu.co
+  - Programa: Ingeniería de Sistemas
+ 
+- Eliana Janneth Puerta
+  - Email: eliana.puerta@udea.edu.co
+  - Programa: Ingeniería de Sistemas
+    
+- Juan Fernando Lopera Muñoz
+  - juan.loperam@udea.edu.co
+  - Programa: Ingeniería de Sistemas
