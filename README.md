@@ -52,7 +52,7 @@ Este repositorio contiene archivos que forman parte del proyecto de predicción 
   
 3. **Descargar y descomprimir el dataset**: Ingresar a [DataSet](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition), descargarlo y descomprimirlo para obtener el archivo CSV.
     
-4. **Cargar el Dataset en Colab**: Utiliza las funciones de carga de datos desde tu máquina local en el entorno de ejecución de Google Colab y subir el CSV (dataset) previamente descomprimido.
+4. **Cargar el Dataset en el entorno de Jupyter**: Utiliza las funciones de carga de datos Jupyter para subir el CSV (dataset) previamente descomprimido en el entorno de ejecución que vas a trabajar.
 
 5. **Ejecutar los Notebooks**: Abre Jupyter Notebook en tu entorno de desarrollo preferido y navega hasta la ubicación donde clonaste el repositorio. Abre los archivos `EDA.ipynb` y `Entregable_II_G_DB_1_ElianaPuertaMorales_JuanLoperaMuñoz_MiguelUruenaRiobo.ipynb` en orden y sigue las instrucciones proporcionadas en los notebooks para ejecutar el código.
 
