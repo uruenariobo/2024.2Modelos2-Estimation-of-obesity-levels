@@ -30,8 +30,8 @@ Este repositorio contiene archivos que forman parte del proyecto de predicción 
 ### 1. Utilizando Google Colab (Sin necesidad de clonar el repositorio)
 
 1. **Abrir en Google Colab**: Haz clic en los siguientes enlaces para abrir los Notebooks en Google Colab:
-   - [EDA.ipynb](https://colab.research.google.com/github/uruenariobo/2024.2Modelos2-Estimation-of-obesity-levels/blob/main/notebooks/EDA.ipynb)
-   - [Entregable_II_G_DB_1_ElianaPuertaMorales_JuanLoperaMuñoz_MiguelUruenaRiobo.ipynb](https://colab.research.google.com/github/uruenariobo/2024.2Modelos2-Estimation-of-obesity-levels/blob/main/notebooks/Entregable_II_G_DB_1_ElianaPuertaMorales_JuanLoperaMuñoz_MiguelUruenaRiobo.ipynb)
+   - [EDA.ipynb](https://colab.research.google.com/drive/1E08zktRCXRYEY8MsY2TaMiT2aGofvgmI?usp=sharing&authuser=1)
+   - [Entregable_II_G_DB_1_ElianaPuertaMorales_JuanLoperaMuñoz_MiguelUruenaRiobo.ipynb](https://colab.research.google.com/drive/14PTfF0AcM4n-vY24eojIwto_z1QgNCww?usp=sharing)
 
 2. **Descargar y descomprimir el dataset**: Ingresar a [DataSet](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition), descargarlo y descomprimirlo para obtener el archivo CSV.
     
